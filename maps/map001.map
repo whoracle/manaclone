@@ -1,0 +1,20 @@
+[Map]
+name=Water Temple
+script=map001.scr
+layers=3
+tilesize=32
+width=768
+height=768
+
+[Exit]
+exit1=004
+exit1area=((0,0),(0,10),(10,10),(10,0))
+exit2=002
+exit2area=((0,0),(0,10),(10,10),(10,0))
+exit3=003
+exit3area=((0,0),(0,10),(10,10),(10,0))
+
+[Maps]
+maplayer=map001_1
+maplayer=map001_2
+maplayer=map001_3
