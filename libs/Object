@@ -1,0 +1,5 @@
+#!/usr/bin/env python2
+
+class Object:
+	def __init__(self):
+		print "Hi, I'm an Object!"
